@@ -1,0 +1,14 @@
+ul,
+ol{
+    padding: 8px 16px;
+    margin: 0px;
+    font-family: "Papyrus", sans-serif;
+}
+
+ul{
+    background-color: antiquewhite;
+}
+
+ol{
+    background-color: lightblue;
+}
